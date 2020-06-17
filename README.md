@@ -1,6 +1,6 @@
-# 👩‍💻️ GoStack-Rocketseat
+# Set Repositories
 
-### 📘️ Challenges and Concepts
+### from Rocketseat bootcamp GoStack
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/48167967/81231831-35fa8e00-8fca-11ea-997e-399c25d43a64.png" width="550" height="200">
